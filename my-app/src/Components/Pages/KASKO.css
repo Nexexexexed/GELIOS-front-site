@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h3{
+    letter-spacing: -.4px;
+    color: #58595b;
+    margin-bottom: 24px;
+    font-size: 3rem;
+    line-height: 1em;
+    text-align: center;
+}
+
+
+.back-for-header{
+    width: auto;
+    height: 6rem;
+}
+
+.wrapper-kasko {
+    width: 100%;
+    max-width: 1216px;
+    margin-left: auto;
+    margin-right: auto;
+    box-sizing: border-box;
+    background-color: white;
+    margin-top: 20px;
+}
+
+.page-content{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    flex-basis: auto;
+    min-height: 500px;
+    background-color: #f7f7f7;
+}
+
+.vpk-content{
+    padding: 0px 40px;
+    padding-top: 80px;
+}
+
+
+.vpk-more-text{
+    color: #595959;
+    letter-spacing: -.4px;
+    width: 100%;
+    font-size: 1.8rem;
+    line-height: 1.33333em;
+    margin-bottom: 80px;
+}
+
+.vpk-grid{
+    display: flex;
+}
+
+.vpk-grid-item{
+    border: 1px solid #f26123;
+    border-radius: 15px;
+    width: calc(49% - 92px);
+    margin-bottom: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+    padding: 16px;
+}
+
+.vpk-grid ul{
+    list-style-type: disc;
+}
+
+
+.vpk-grid li{
+    margin-bottom: 5px;
+}
+
+.benefit-header{
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.benefit-header-text{
+    color:#f26123;
+    margin-left: 20px;
+    font-size: 1.5em;
+}
+
+.benefit-main-previw{
+    margin-left: 20px;
+}

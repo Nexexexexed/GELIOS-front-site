@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="52px" viewBox="0 0 52 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>введение иммуноглобулина</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-479.000000, -359.000000)" stroke="#814C9E" stroke-width="2">
+            <g id="введение-иммуноглобулина" transform="translate(479.000000, 359.000000)">
+                <circle id="Oval-3-Copy-10" stroke-opacity="0.2" fill="#FFFFFF" cx="26" cy="26" r="25"></circle>
+                <g id="syringe" transform="translate(12.000100, 11.999900)">
+                    <polygon id="Stroke-1" stroke-linejoin="round" points="5.039 26.6787 7.32747196e-14 21.6397 2.051 19.5887 7.09 24.6287"></polygon>
+                    <polygon id="Stroke-3" stroke-linejoin="round" points="10.8686 20.8496 5.8286 15.8106 7.8796 13.7596 12.9186 18.7986"></polygon>
+                    <polygon id="Stroke-4" stroke-linecap="round" stroke-linejoin="round" points="6.6601 22.7847 4.1431 20.2677 6.6601 17.7507 9.1781 20.2677"></polygon>
+                    <polygon id="Stroke-5" stroke-linecap="round" stroke-linejoin="round" points="21.0263 8.1743 12.4693 16.7313 9.7413 14.0033 18.2983 5.4463"></polygon>
+                    <path d="M26.3818,-3.55271368e-14 L19.6168,6.765" id="Stroke-6" stroke-linecap="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

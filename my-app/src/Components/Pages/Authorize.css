@@ -1,0 +1,100 @@
+.page-content{
+    margin-top: 16px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    flex-basis: auto;
+    min-height: 500px;  
+    z-index: 500;
+    position: relative;;
+}
+
+
+.back-for-header{
+    width: auto;
+    height: 6rem;
+}
+
+.wrapper-auth{
+    flex: 1 1 auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.wrapper-forma {
+    width: 100%;
+    max-width: 1216px;
+    margin-left: auto;
+    margin-right: auto;
+    box-sizing: border-box;
+    background-color: white;
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+
+.forma{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 500px;
+}
+
+.input-name{
+    display: flex;
+    padding: 10px;
+    flex-direction: column;
+    align-items: center;
+}
+
+.input-pass{
+    display: flex;
+    padding: 10px;
+    flex-direction: column;
+    align-items: center;
+}
+
+.input-type{
+    display: flex;
+    padding: 10px;
+    flex-direction: column;
+    align-items: center;
+}
+
+.input-btn{
+    display: flex;
+    padding: 10px;
+    flex-direction: column;
+
+}
+
+.forma input,select{
+    padding: 10px;
+    border-radius: 15px;
+    border: 1px #5d616a40 solid;
+    width: 30rem;
+}
+
+
+.btn-login{
+    padding: 10px;
+    border-radius: 15px;
+    border: 1px #5d616a40 solid;
+    width: 30rem;
+    background-color:#f26123;
+    color: white;
+}
+
+
+.forma label{
+    font-size: 1.5em;
+}
+
+.wrapper-forma h2{
+    display: block;
+    width: 100%;
+    text-align: center;
+    color: #58595b;
+    font-size: 4rem;
+    line-height: 1em;
+    margin: 30px 0px;
+}

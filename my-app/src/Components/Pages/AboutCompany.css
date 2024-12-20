@@ -1,0 +1,134 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h3{
+    letter-spacing: -.4px;
+    color: #58595b;
+    margin-bottom: 24px;
+    font-size: 3rem;
+    line-height: 1em;
+    text-align: center;
+}
+
+
+.back-for-header{
+    width: auto;
+    height: 6rem;
+}
+
+.about_content_info{
+    display: flex;
+    padding: 30px 80px;
+}
+
+
+.wrapper-about {
+    width: 100%;
+    max-width: 1216px;
+    margin-left: auto;
+    margin-right: auto;
+    box-sizing: border-box;
+    background-color: white;
+    margin-top: 20px;
+}
+
+.as_section{
+    text-align: center;
+    padding: 15px 50px;
+    border-bottom: 1px solid hsla(0, 0%, 62.7%, .24);
+
+}
+
+.as_setion_text{
+    font-weight: 400;
+    font-style: normal;
+    color: #262626;
+    font-size: 1.0rem;
+    line-height: 1.41176em;
+    font-weight: 800;
+}
+
+.as_setion_text_1{
+    color: #ed7d31;
+    letter-spacing: -.4px;
+    margin-bottom: 8px;
+    font-size: 1.6rem;
+    line-height: 1.33333em;
+    font-weight: 600;
+}
+
+.about_content_rigth{
+    margin-left: 40px;
+    border: 8px solid #f7f7f7;
+}
+
+.about_info_zagolovok{
+    font-size: 2.0rem;
+    margin-bottom: 40px;
+}
+
+.about_reliability{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 5rem;
+    padding-top: 5rem;
+}
+
+
+.ar_item{
+    padding-bottom: 10px;
+    width: 160px;
+}
+
+.ar_item_text{
+    color: #262626;
+    text-align: center;
+    font-size: 0.9rem;
+    line-height: 1.42857em;
+
+}
+
+.ar_item_image{
+    text-align: center;
+}
+
+
+
+.about_banner{
+    display: flex;
+    padding: 64px 72px;
+    background: #f26123;
+    color: #fff;
+}
+
+.ab-col{
+    margin-left: 64px;
+    width: 280px;
+    flex-shrink: 0;
+    flex-grow: 0;
+}
+
+.ab-col-first{
+    margin-left: 0;
+    margin-right: -32px;
+    width: auto;
+    flex: 1;
+}
+
+.ab-lead{
+    letter-spacing: 0.4px;
+    font-size: 2.2rem;
+    line-height: 1em;
+}
+
+.ab-group{
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+.ab-group p {
+    letter-spacing: 0.8px
+}

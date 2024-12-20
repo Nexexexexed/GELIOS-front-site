@@ -1,0 +1,44 @@
+.btn-reg{
+    padding: 10px;
+    border-radius: 15px;
+    border: 1px #5d616a40 solid;
+    width: 30rem;
+    background-color:#f26123;
+    color: white;
+    margin-bottom: 30px;
+}
+
+
+.input-email {
+    display: flex;
+    padding: 10px;
+    flex-direction: column;
+    align-items: center;
+}
+
+.input-surname {
+    display: flex;
+    padding: 10px;
+    flex-direction: column;
+    align-items: center;
+}
+.input-passNum {
+    display: flex;
+    padding: 10px;
+    flex-direction: column;
+    align-items: center;
+}
+.input-passSer {
+    display: flex;
+    padding: 10px;
+    flex-direction: column;
+    align-items: center;
+}
+.input-country {
+    display: flex;
+    padding: 10px;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 30px;
+
+}

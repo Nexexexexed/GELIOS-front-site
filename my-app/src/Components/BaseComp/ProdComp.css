@@ -1,0 +1,61 @@
+.prod-item{
+    display: flex;
+    margin-top: 80px;
+}
+
+.prod-description{
+    margin-right: 64px;
+    padding-left: 64px;
+}
+
+.prod-head{
+    display: flex;
+    align-items: center;
+    margin-bottom: 1.8em;
+}
+
+
+.prod-text{
+    margin-bottom: 2em;
+    color: #595959;
+    font-size: 1rem;
+    line-height: 1.71429em;
+}
+
+
+.prod-type span{
+    font-size: 2.2rem;
+    line-height: 1em;
+    color: #262626;
+    letter-spacing: -.4px;
+}
+
+.prod-type{
+    margin-left: 1.2em;
+}
+
+.prod-icon{
+    width: 48px;
+    height: 48px;
+    left: 0;
+}
+
+
+.url{
+    margin: 20px;
+    font-size: 1.3rem;
+}
+
+.reverse{
+    flex-direction: row-reverse;
+}
+
+.prod-image{
+    padding-left: 3em;
+    padding-right: 0em;
+}
+
+.left{
+    padding-right: 3em;
+    padding-left: 0em;
+}

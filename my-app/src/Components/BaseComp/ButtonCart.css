@@ -1,0 +1,48 @@
+
+.box_button{
+    background: linear-gradient(90deg, #ea6021, #f49b2d 50%, #fdd339);
+    padding: 40px;
+    border-radius: 10px;
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.wrapper_placeholder_elemet{
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #ececec;
+    margin: 10px;
+}
+
+.wrapper_placeholder_elemet input{
+    margin: 10px 0px;
+    padding: 5px;
+
+}
+
+.wrapper_coll_inf{
+    display: flex;
+}
+
+.btn_send_el{
+    margin: 10px ;
+
+}
+
+.btn_sending{
+    background-color: #ececec;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+
+.messsage_success{
+    color: green;
+    text-align: center;
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="54px" height="54px" viewBox="0 0 54 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>loos baggage(риск потери багажа)</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-375.000000, -724.000000)" stroke="#814C9E" stroke-width="2">
+            <g id="Group-4" transform="translate(88.000000, 687.000000)">
+                <g id="loos-baggage(риск-потери-багажа)" transform="translate(288.000000, 38.000000)">
+                    <circle id="Oval-3-Copy-14" stroke-opacity="0.2" fill-rule="nonzero" cx="26" cy="26" r="26"></circle>
+                    <g id="briefcase" transform="translate(16.000000, 16.000000)" stroke-linecap="round" stroke-linejoin="round">
+                        <rect id="Rectangle-path" x="0" y="4.33048433" width="19.6655518" height="15.1566952" rx="2.26153846"></rect>
+                        <path d="M13.7658863,19.4871795 L13.7658863,2.16524217 C13.7658863,0.969411938 12.8854295,0 11.7993311,0 L7.86622074,0 C6.7801223,0 5.89966555,0.969411938 5.89966555,2.16524217 L5.89966555,19.4871795" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

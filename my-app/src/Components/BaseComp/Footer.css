@@ -1,0 +1,88 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+
+footer{
+    background-color: #F7F7F7;
+}
+
+.line{
+    width: 1000px;
+    margin: auto;
+    border:0;
+    height:1px;
+    background: #b4b4b4;
+}
+
+.wrapper-footer{
+    width: 100%;
+    max-width: 1216px;
+    margin-left: auto;
+    margin-right: auto;
+    box-sizing: border-box;
+    margin-top: 20px;
+}
+
+
+.site-footer{
+    color: #58595b;
+    padding-bottom: 40px;
+    font-size: 1.4rem;
+    line-height: 1.14286em;
+}
+
+.footer_nav{
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 24px;
+}
+
+.footer-nav-item{
+    font-weight: 400;
+    font-style: normal;
+    margin-right: 24px;
+    transition: color .3s;
+    vertical-align: middle;
+}
+
+.footer-copyrighting{
+    font-family:  sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.copyrighting{
+    color: #58595b;
+    padding-top: 10px;
+}
+
+.footer-copyrighting .soc_ico {
+    padding-right: 8px;
+}
+
+
+.footer-copyrighting .soc_ico img{
+    width: 30px;
+    height: 30px;
+}
+
+.footer-extra {
+    font-family: sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-top: 24px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.1rem;
+
+}
+
+.footer-extra-link{
+    margin-right: 16px;
+    transition: color .3s;
+    color: #5b5b5b;
+}

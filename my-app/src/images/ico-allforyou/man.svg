@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="52px" viewBox="0 0 52 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>нс</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Public" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-156.000000, -52.000000)">
+            <g id="нс" transform="translate(156.000000, 52.000000)">
+                <circle id="Oval-3-Copy-2" stroke-opacity="0.2" stroke="#814C9E" stroke-width="2" fill="#FFFFFF" cx="26" cy="26" r="25"></circle>
+                <g id="Group-4" transform="translate(14.000000, 16.000000)">
+                    <path d="M-9.09494702e-13,22 L24.0602412,22" id="Path-11" stroke="#814C9E" stroke-width="2" stroke-linecap="round"></path>
+                    <polyline id="Path-12" stroke="#814C9E" stroke-width="2" stroke-linecap="round" points="9.25917228 19.1771817 11.5724159 15.5641829 11.1904586 11.3034388 16.0381416 13.4728665 18.1159721 18.3016832"></polyline>
+                    <path d="M11.6197151,11.45144 L8.5,6" id="Path-13" stroke="#814C9E" stroke-width="3" stroke-linecap="round"></path>
+                    <path d="M8.37936664,5.6556771 C8.50084078,5.27308304 7.52562571,6.07973825 5.45372143,8.07564274 L4.52865358,11.6221864" id="Path-14" stroke="#814C9E" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M6.60291466,4.51810397 C7.70748416,4.51810397 8.60291466,3.62267347 8.60291466,2.51810397 C8.60291466,1.41353447 7.70748416,0.518103966 6.60291466,0.518103966 C5.49834516,0.518103966 4.60291466,1.41353447 4.60291466,2.51810397 C4.60291466,3.62267347 5.49834516,4.51810397 6.60291466,4.51810397 Z" id="Oval" fill="#814C9E"></path>
+                    <polyline id="Path-15" stroke="#814C9E" stroke-width="2" stroke-linecap="round" points="8.34072505 5.54195559 12.9394167 4.95411023 15.2484733 1.90925113"></polyline>
+                    <path d="M6.87408258,19.9089638 L1.11728068,18.2035168" id="Path-16" stroke="#814C9E" stroke-linecap="round"></path>
+                    <path d="M7,18.3001067 L4.12426606,15.4601206" id="Path-17" stroke="#814C9E" stroke-linecap="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

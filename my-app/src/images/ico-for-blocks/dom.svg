@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="52px" viewBox="0 0 52 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>дом</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-88.000000, -601.000000)" stroke="#5b5b5b">
+            <g id="дом" transform="translate(88.000000, 601.000000)">
+                <circle id="Oval-3-Copy-4" stroke-opacity="0.2" stroke-width="2" fill="#FFFFFF" cx="26" cy="26" r="25"></circle>
+                <g id="Group-2" transform="translate(15.000000, 15.000000)">
+                    <path d="M2.99885559,6.92485734 L2.99885559,18.9993439 C2.99885559,19.5516286 3.44657084,19.9993439 3.99885559,19.9993439 L8.00099464,19.9993439 L8.00099464,14.9970245 C8.00099464,13.892455 8.89642514,12.9970245 10.0009946,12.9970245 L12.0026245,12.9970245 C13.107194,12.9970245 14.0026245,13.892455 14.0026245,14.9970245 L14.0026245,19.9993439 L18.0021362,19.9993439 C18.554421,19.9993439 19.0021362,19.5516286 19.0021362,18.9993439 L19.0021362,7.12318975 L10.9906787,1.2345721 L2.99885559,6.92485734 Z" id="Path-9" stroke-width="2"></path>
+                    <polyline id="Path-10" stroke-width="3" stroke-linecap="round" points="0.998016357 8.49781799 10.996068 0.997344977 21 8.49781799"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

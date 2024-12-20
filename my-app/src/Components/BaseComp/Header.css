@@ -1,0 +1,417 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+.ico-menu{
+    max-width: 16px;
+    max-height: 13px;
+}
+
+button{
+    background: none;
+	color: inherit;
+	border: none;
+	padding: 0;
+	font: inherit;
+	cursor: pointer;
+	outline: inherit;
+}
+
+a {
+    color: black;
+    text-decoration: none; 
+}
+
+
+a:hover{
+    color:#f26123;
+    transition: all 0.3s ease-out;
+}
+
+ul {
+    list-style-type: none; 
+   }
+
+
+.img-ico{
+    margin: 6px;
+}
+
+
+.head{
+    position: absolute;
+    width: 100%;
+}
+
+
+
+.header-el{
+    padding: 0px 10px;
+}
+
+
+
+
+
+.site-header{
+    position: relative;
+    display: flex;
+    background: transparent;
+    justify-content: space-between;
+    padding: 0px 40px;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+.site-header.active{
+    background-color: white; 
+}
+
+
+.site-header-right{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    height: 80px;
+}
+.site-header-left{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    height: 80px;
+}
+
+.header-el{
+    padding:5px 15px;
+}
+
+
+
+
+.header-el-auth{
+    border: 1px solid #f26123a1;
+    border-radius: 10px;
+}
+
+
+
+
+.wrapper{
+    width: 100%;
+    max-width: 1216px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.header-nav-row{
+    display: flex;
+}
+
+.header-nav-item{
+    padding: 10px 0px;
+}
+
+.header-nav-subcol{
+    margin-right: 60px ;
+}
+
+.header-nav-h{
+    font-size: 25px;
+}
+
+.header-nav-section{
+    border-right: 0.5px solid rgb(188, 188, 188);
+    padding: 0px 40px;
+}
+
+.header-nav-last-section{
+    border-right: 0.0px solid rgb(188, 188, 188);
+}
+
+.header-nav-inner{
+    display: flex;
+    padding: 0px 0px 40px 0px;
+}
+
+.header-nav-action{
+    padding: 10px ;
+    margin: 30px 0px;
+}
+
+.header-nav-action-button{
+    color: #fff;
+    padding: 10px ;
+    background-color: #f26123;
+    font-size: 16px;
+    border-radius: 4px;
+}
+
+a.header-nav-action-button:hover{
+    color:#000000;
+    transition: all 0.4s ease-out;
+}
+
+
+
+
+
+.header-nav-wrap {
+    top: 0;
+    left: 0;
+    width: 100%;
+    opacity: 0;
+    transform: translateY(20px); /* Start slightly below */
+    visibility: hidden; /* Hidden by default */
+    transition: opacity 0.5s ease, transform 0.5s ease, visibility 0s 0.5s;
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.ico-menu{
+    max-width: 16px;
+    max-height: 13px;
+}
+
+button{
+    background: none;
+	color: inherit;
+	border: none;
+	padding: 0;
+	font: inherit;
+	cursor: pointer;
+	outline: inherit;
+}
+
+a {
+    color: black;
+    text-decoration: none; 
+}
+
+
+a:hover{
+    color:#f26123;
+    transition: all 0.3s ease-out;
+}
+
+ul {
+    list-style-type: none; 
+   }
+
+
+.img-ico{
+    margin: 6px;
+}
+
+
+.head{
+    position: absolute;
+    width: 100%;
+}
+
+
+
+.header-el{
+    padding: 0px 10px;
+}
+
+
+
+
+
+.site-header{
+    position: relative;
+    display: flex;
+    background: transparent;
+    justify-content: space-between;
+    padding: 0px 40px;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+.site-header.active{
+    background-color: white; 
+}
+
+
+.site-header-right{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    height: 80px;
+}
+.site-header-left{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    height: 80px;
+}
+
+.header-el{
+    padding:5px 15px;
+}
+
+
+
+
+.header-el-auth{
+    border: 1px solid #f26123a1;
+    border-radius: 10px;
+
+}
+
+
+
+
+.wrapper{
+    width: 100%;
+    max-width: 1216px;
+    padding-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.header-nav-row{
+    display: flex;
+}
+
+.header-nav-item{
+    padding: 10px 0px;
+}
+
+.header-nav-subcol{
+    margin-right: 60px ;
+}
+
+.header-nav-h{
+    font-size: 25px;
+}
+
+.header-nav-section{
+    border-right: 0.5px solid rgb(188, 188, 188);
+    padding: 0px 40px;
+}
+
+.header-nav-last-section{
+    border-right: 0.0px solid rgb(188, 188, 188);
+}
+
+.header-nav-inner{
+    display: flex;
+    padding: 0px 0px 40px 0px;
+}
+
+.header-nav-action{
+    padding: 10px ;
+    margin: 30px 0px;
+}
+
+.header-nav-action-button{
+    color: #fff;
+    padding: 10px ;
+    background-color: #f26123;
+    font-size: 16px;
+    border-radius: 4px;
+}
+
+a.header-nav-action-button:hover{
+    color:#000000;
+    transition: all 0.4s ease-out;
+}
+
+
+
+
+
+.header-nav-wrap {
+    top: 0;
+    left: 0;
+    width: 100%;
+    opacity: 0;
+    transform: translateY(20px); /* Start slightly below */
+    visibility: hidden; /* Hidden by default */
+    transition: opacity 0.5s ease, transform 0.5s ease, visibility 0s 0.5s;
+
+    background-color: #fff;
+}
+  
+
+
+
+.header-nav-wrap.show {
+opacity: 1;
+transform: translateY(0); /* Move up to original position */
+visibility: visible;
+transition: opacity 0.5s ease, transform 0.5s ease, visibility 0s;
+}
+
+
+
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Полупрозрачное черное затемнение */
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.3s ease, visibility 0.3s ease;
+    z-index: 1;
+  }
+  
+  .overlay.show {
+    visibility: visible;
+    opacity: 1;
+    z-index: 1000;
+  }
+    background-color: #ffff;
+}
+
+
+  .non-overlayout{
+    position: relative;
+  }
+
+
+
+.header-nav-wrap.show {
+opacity: 1;
+transform: translateY(0); /* Move up to original position */
+visibility: visible;
+transition: opacity 0.5s ease, transform 0.5s ease, visibility 0s;
+position: relative;
+z-index: 1000;
+}
+
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Полупрозрачное черное затемнение */
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.3s ease, visibility 0.3s ease;
+    z-index: 999; /* Помещает overlay поверх всего, кроме Header */
+  }
+  
+  .overlay.show {
+    visibility: visible;
+    opacity: 1;
+  }

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="52px" viewBox="0 0 52 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>без ограничений по колличеству клещей</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 26.631 21.313 26.631 21.313 0 0 0"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-713.000000, -375.000000)">
+            <g id="без-ограничений-по-колличеству-клещей" transform="translate(713.000000, 375.000000)">
+                <circle id="Oval-3-Copy-17" stroke-opacity="0.2" stroke="#814C9E" stroke-width="2" cx="26" cy="26" r="25"></circle>
+                <g id="Mite" transform="translate(15.000000, 12.000000)">
+                    <path d="M16.6962,25.6309 L4.9972,25.6309 L4.9972,16.4259 L4.9972,6.9869 L16.6212,6.9869 C16.6632,6.9869 16.6962,7.0209 16.6962,7.0619 L16.6962,25.6309 Z" id="Stroke-1" stroke="#814C9E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <polyline id="Stroke-3" stroke="#814C9E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="16.8827 16.3087 20.3127 16.3087 20.3127 18.0217"></polyline>
+                    <polyline id="Stroke-5" stroke="#814C9E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="16.8827 10.5215 20.3127 10.5215 20.3127 12.2335"></polyline>
+                    <polyline id="Stroke-7" stroke="#814C9E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="16.8827 21.9551 20.3127 21.9551 20.3127 23.6671"></polyline>
+                    <polyline id="Stroke-9" stroke="#814C9E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="4.4301 15.7413 1.0001 15.7413 1.0001 17.4543"></polyline>
+                    <polyline id="Stroke-11" stroke="#814C9E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="4.4301 9.9542 1.0001 9.9542 1.0001 11.6672"></polyline>
+                    <polyline id="Stroke-13" stroke="#814C9E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="4.4301 21.3878 1.0001 21.3878 1.0001 23.0998"></polyline>
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-16"></g>
+                    <polygon id="Stroke-15" stroke="#814C9E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)" points="6.965 6.446 14.729 6.446 14.729 3.362 6.965 3.362"></polygon>
+                    <path d="M9.4242,3.3624 L7.0622,1.0004" id="Stroke-17" stroke="#814C9E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)"></path>
+                    <path d="M12.1674,3.3624 L14.5294,1.0004" id="Stroke-18" stroke="#814C9E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.item-block{
+    display: flex;
+    align-items: center;
+    padding: 0 10px 24px;
+}
+
+
+.image-item-block{
+    width: 45px;
+    height: 45px;
+    margin-right: 12px;
+}
+
